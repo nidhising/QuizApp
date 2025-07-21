@@ -3,9 +3,12 @@
 A simple web-based quiz application built with HTML, CSS, and JavaScript.
 
 ## Features
-- Multiple choice questions
-- Interactive UI
-- Score tracking
+- Multiple choice questions  
+  ![Question Tab](screenshot/Question%20Tab.png)
+- Interactive UI  
+  ![Functioning](screenshot/Functioning.png)
+- Score tracking  
+  ![Score](screenshot/Score.png)
 
 ## Getting Started
 1. Clone or download this repository.
